@@ -27,7 +27,7 @@ prompt("What is his (her) name?");
 var loveScore = Math.random() * 100;
 loveScore = Math.floor(loveScore) + 1;
 
-if (loveScore > 70) {
+if (loveScore > 80) {
     alert("Your love score is: " + loveScore + "% " + "You love each other like Romeo and Julliete.");
 } else {
     alert("Your love score is: " + loveScore + "%" `!` )
